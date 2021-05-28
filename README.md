@@ -30,7 +30,7 @@
 
 ![7](https://user-images.githubusercontent.com/56239989/119947790-537a0b80-bfc2-11eb-8541-b42b36244873.jpg)
 
-### 5. Buat file baru dengan nama index.php dan masuka data berikut
+### 5. Buat file baru dengan nama index.php dan masukan data berikut
 
 ![8](https://user-images.githubusercontent.com/56239989/119947862-6b518f80-bfc2-11eb-839d-0fede8f147ac.jpg)
 
@@ -38,3 +38,24 @@
 
 ![9](https://user-images.githubusercontent.com/56239989/119947884-71e00700-bfc2-11eb-999c-3ffa6e222ad7.jpg)
 
+### 6. Buat file baru dengan nama tambahan.php dan masukan data berikut
+
+![10](https://user-images.githubusercontent.com/56239989/119951056-bde07b00-bfc5-11eb-888f-4bef7616e57a.jpg)
+![11](https://user-images.githubusercontent.com/56239989/119951090-c46ef280-bfc5-11eb-8ced-de72ea6880f6.jpg)
+
+- Hasilnya
+
+![12](https://user-images.githubusercontent.com/56239989/119951111-c9cc3d00-bfc5-11eb-804d-d1d6f6f5bc3c.jpg)
+
+### 7. Buat file baru dengan nama ubah.php dan masukan data berikut
+
+![13](https://user-images.githubusercontent.com/56239989/119951233-eb2d2900-bfc5-11eb-845d-da5311c007e2.jpg)
+![14](https://user-images.githubusercontent.com/56239989/119951244-ed8f8300-bfc5-11eb-9364-44804a91d419.jpg)
+
+- Hasilnya
+
+![15](https://user-images.githubusercontent.com/56239989/119951265-f2543700-bfc5-11eb-86b6-6cd26d2cf403.jpg)
+
+### 8. Buat file baru dengan nama hapus.php dan masukan data berikut
+
+![16](https://user-images.githubusercontent.com/56239989/119951386-16b01380-bfc6-11eb-88ff-bad6283ef254.jpg)
