@@ -28,7 +28,8 @@
 
 - Akses http://localhost/lab8_php_database/koneksi.php untuk melihat hasilnya
 
-![7](https://user-images.githubusercontent.com/56239989/119947790-537a0b80-bfc2-11eb-8541-b42b36244873.jpg)
+![7](https://user-images.githubusercontent.com/56239989/119951970-b9689200-bfc6-11eb-9987-8404b97d80d6.jpg)![15](https://user-images.githubusercontent.com/56239989/119952012-c2f1fa00-bfc6-11eb-8015-7dba556e9fc2.jpg)
+
 
 ### 5. Buat file baru dengan nama index.php dan masukan data berikut
 
@@ -54,6 +55,7 @@
 
 - Hasilnya
 
+![15](https://user-images.githubusercontent.com/56239989/119952058-ce452580-bfc6-11eb-9467-79a72c91d41e.jpg)
 
 
 ### 8. Buat file baru dengan nama hapus.php dan masukan data berikut
