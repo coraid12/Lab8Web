@@ -54,7 +54,7 @@
 
 - Hasilnya
 
-![15](https://user-images.githubusercontent.com/56239989/119951265-f2543700-bfc5-11eb-86b6-6cd26d2cf403.jpg)
+
 
 ### 8. Buat file baru dengan nama hapus.php dan masukan data berikut
 
