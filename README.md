@@ -32,11 +32,11 @@
 
 ### 5. Buat file baru dengan nama index.php dan masukan data berikut
 
-![8](https://user-images.githubusercontent.com/56239989/119947862-6b518f80-bfc2-11eb-839d-0fede8f147ac.jpg)
+![8](https://user-images.githubusercontent.com/56239989/120213543-87bd2880-c25d-11eb-85d2-99789ef05b12.jpg)
 
 - Hasilnya
 
-![9](https://user-images.githubusercontent.com/56239989/119947884-71e00700-bfc2-11eb-999c-3ffa6e222ad7.jpg)
+![9](https://user-images.githubusercontent.com/56239989/120213580-93a8ea80-c25d-11eb-874a-e3c495a75ec2.jpg)
 
 ### 6. Buat file baru dengan nama tambahan.php dan masukan data berikut
 
