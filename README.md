@@ -61,3 +61,8 @@
 ### 8. Buat file baru dengan nama hapus.php dan masukan data berikut
 
 ![16](https://user-images.githubusercontent.com/56239989/119951386-16b01380-bfc6-11eb-88ff-bad6283ef254.jpg)
+
+- Hasilnya setelah menekan tombol Hapus maka list langsung hilang dari Tabel
+
+![3x](https://user-images.githubusercontent.com/56239989/120215061-7d039300-c25f-11eb-9c6a-6332b3037764.jpg)
+
