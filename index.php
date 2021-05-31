@@ -16,7 +16,7 @@ $result = mysqli_query($conn, $sql);
     <div class="container">
         <h1>Data Barang</h1>
         <tr>
-            <a href="tambah barang.php?id=">Tambah Barang</a>
+            <a href="tambah.php?id=">Tambah Barang</a>
         </tr>
 
         <div class="main">
