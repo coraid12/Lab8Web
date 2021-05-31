@@ -24,11 +24,11 @@
 
 ### 4. Buat file baru dengan nama koneksi.php dan masukan data berikut
 
-![6](https://user-images.githubusercontent.com/56239989/119947685-35141000-bfc2-11eb-825f-d14b4b16144f.jpg)
+![5x](https://user-images.githubusercontent.com/56239989/120215911-86412f80-c260-11eb-8227-fe7a1a6e5915.jpg)
 
 - Akses http://localhost/lab8_php_database/koneksi.php untuk melihat hasilnya
 
-![7](https://user-images.githubusercontent.com/56239989/119951970-b9689200-bfc6-11eb-9987-8404b97d80d6.jpg)
+![4x](https://user-images.githubusercontent.com/56239989/120215850-70cc0580-c260-11eb-8d1f-3c99704d1fd9.jpg)
 
 ### 5. Buat file baru dengan nama index.php dan masukan data berikut
 
