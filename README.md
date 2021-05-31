@@ -43,9 +43,10 @@
 ![10](https://user-images.githubusercontent.com/56239989/120214188-5729be80-c25e-11eb-9223-9b71da0bc75b.jpg)
 ![11](https://user-images.githubusercontent.com/56239989/120214194-58f38200-c25e-11eb-9054-b30f3af8fee5.jpg)
 
-- Hasilnya
+- Hasilnya dan setelah ditambahkan
 
-![12](https://user-images.githubusercontent.com/56239989/120214203-5c870900-c25e-11eb-9382-091bdb1adc3b.jpg)
+![1x](https://user-images.githubusercontent.com/56239989/120214813-2a29db80-c25f-11eb-999f-e27b0874e354.jpg)
+![2x](https://user-images.githubusercontent.com/56239989/120214820-2d24cc00-c25f-11eb-8373-3263bf2269cb.jpg)
 
 ### 7. Buat file baru dengan nama ubah.php dan masukan data berikut
 
