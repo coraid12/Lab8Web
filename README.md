@@ -40,12 +40,12 @@
 
 ### 6. Buat file baru dengan nama tambahan.php dan masukan data berikut
 
-![10](https://user-images.githubusercontent.com/56239989/119951056-bde07b00-bfc5-11eb-888f-4bef7616e57a.jpg)
-![11](https://user-images.githubusercontent.com/56239989/119951090-c46ef280-bfc5-11eb-8ced-de72ea6880f6.jpg)
+![10](https://user-images.githubusercontent.com/56239989/120214188-5729be80-c25e-11eb-9223-9b71da0bc75b.jpg)
+![11](https://user-images.githubusercontent.com/56239989/120214194-58f38200-c25e-11eb-9054-b30f3af8fee5.jpg)
 
 - Hasilnya
 
-![12](https://user-images.githubusercontent.com/56239989/119951111-c9cc3d00-bfc5-11eb-804d-d1d6f6f5bc3c.jpg)
+![12](https://user-images.githubusercontent.com/56239989/120214203-5c870900-c25e-11eb-9382-091bdb1adc3b.jpg)
 
 ### 7. Buat file baru dengan nama ubah.php dan masukan data berikut
 
