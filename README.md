@@ -32,7 +32,7 @@
 
 ### 5. Buat file baru dengan nama index.php dan masukan data berikut
 
-![8](https://user-images.githubusercontent.com/56239989/120213543-87bd2880-c25d-11eb-85d2-99789ef05b12.jpg)
+![8](https://user-images.githubusercontent.com/56239989/120216212-eafc8a00-c260-11eb-988d-1cae7ba2d92f.jpg)
 
 - Hasilnya
 
