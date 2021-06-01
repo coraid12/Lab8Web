@@ -41,7 +41,7 @@
 
 ### 6. Buat file baru dengan nama tambah.php dan masukan data berikut
 
-![10](https://user-images.githubusercontent.com/56239989/120214188-5729be80-c25e-11eb-9223-9b71da0bc75b.jpg)
+![5x](https://user-images.githubusercontent.com/56239989/120356004-11d4c200-c32e-11eb-9205-9b580a89c428.jpg)
 ![11](https://user-images.githubusercontent.com/56239989/120214194-58f38200-c25e-11eb-9054-b30f3af8fee5.jpg)
 
 - Hasilnya dan setelah ditambahkan
