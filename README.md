@@ -1,7 +1,8 @@
 # Lab8Web
 
-- Nama : Fahmi Prayoga
-- NIM  : 311910682
+- Nama  : Fahmi Prayoga
+- NIM   : 311910682
+- Kelas : TI.19.A.2
 
 # Langkah Praktikum
 
