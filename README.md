@@ -39,7 +39,7 @@
 
 ![9](https://user-images.githubusercontent.com/56239989/120213580-93a8ea80-c25d-11eb-874a-e3c495a75ec2.jpg)
 
-### 6. Buat file baru dengan nama tambahan.php dan masukan data berikut
+### 6. Buat file baru dengan nama tambah.php dan masukan data berikut
 
 ![10](https://user-images.githubusercontent.com/56239989/120214188-5729be80-c25e-11eb-9223-9b71da0bc75b.jpg)
 ![11](https://user-images.githubusercontent.com/56239989/120214194-58f38200-c25e-11eb-9054-b30f3af8fee5.jpg)
