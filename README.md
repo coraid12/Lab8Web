@@ -66,3 +66,10 @@
 
 ![3x](https://user-images.githubusercontent.com/56239989/120215061-7d039300-c25f-11eb-9c6a-6332b3037764.jpg)
 
+### 9. Tambahkan style.css agar tampilan lebih menarik
+
+![1](https://user-images.githubusercontent.com/56239989/120263331-b1119f00-c2c5-11eb-9cb5-0b38f6de1c43.jpg)
+
+- Hasilnya
+
+![2](https://user-images.githubusercontent.com/56239989/120263346-b7a01680-c2c5-11eb-98ba-5354494a0f64.jpg)
